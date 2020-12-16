@@ -1,0 +1,9 @@
+{
+  "name": "js_bonus",
+  "version": "1.0.0",
+  "description": "Bonus JavaScript challenges for the hollidays",
+  "repository": "https://github.com/CoderAcademy-MEL/JS_Challenges.git",
+  "homepage": "https://github.com/CoderAcademy-MEL/JS_Challenges",
+  "author": "Edward Deam <hello@edwarddeam.com> ",
+  "private": false
+}
