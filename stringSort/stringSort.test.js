@@ -1,6 +1,6 @@
 const {sortByString} = require('./stringSort');
 
-describe('sortByString', () => {
+describe('sortByString()', () => {
     test('sorting by flats returns the correct array', ()=>{
         const arr = ['spoof', 'floof', 'loop'];
         const str = 'flats';

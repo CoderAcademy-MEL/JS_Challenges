@@ -1,6 +1,6 @@
 const { toPigLatin } = require('./pigLatin');
 
-describe('toPigLatin', () => {
+describe('toPigLatin()', () => {
   test('change a lower case string to pig latin', () => {
     const testString = 'the quick brown fox';
     const expected = 'hetay uickqay rownbay oxfay';
